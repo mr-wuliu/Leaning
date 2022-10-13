@@ -52,7 +52,7 @@ class Farm_main {
 
 
         // 显示器布局
-        Text title = new Text("Made by Mr. 吴翰琦");
+        Text title = new Text("Made by Mr. Wuliu");
         textArea.setPrefRowCount(1);//显示位置
         textArea.setPrefWidth(300);
         textArea.setFont(Font.font(30));
